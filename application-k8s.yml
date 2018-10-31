@@ -1,0 +1,6 @@
+api:
+  bff:
+    path: /
+  services:
+    url: http://awesome-media-backendservice:8090
+#    url: http://awesome-media-backend.paas.skcc.com
